@@ -1,1 +1,14 @@
-{}
+{
+    "Python\\yamlrepo\\config1.yaml": {
+        "name": "My First Data",
+        "value": 10
+    },
+    "Python\\yamlrepo\\config2.yaml": {
+        "name": "My Second Data",
+        "value": 20,
+        "details": {
+            "city": "New York",
+            "country": "USA"
+        }
+    }
+}
