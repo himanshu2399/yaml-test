@@ -1,0 +1,9 @@
+app:
+  name: "MyApp"
+  version: "1.0.0"
+
+database:
+  host: "db.example.com"
+  port: 5432
+  username: "admin"
+  password: "password"
